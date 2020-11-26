@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+	background-color:#5F9EA0;
+}
+
+#h3{
+	text-align:center;
+	color:#FCFCFC;
+	
+}
+
+#div-table{
+	background-color:#8FBBBD;
+	width:400px;
+	display:block;
+	margin:0 auto;
+}
+
+.table-text {
+	float: right;
+	color:#FCFCFC;
+	
+}
+
+#table-submit{
+	background-color:#EA8C37;
+}
+
+#delete{
+	color:#000000;
+}

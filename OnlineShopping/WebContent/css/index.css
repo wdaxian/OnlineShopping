@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	background-color:#5F9EA0;
+}
+
+#div-table{
+	background-color:#8FBBBD;
+	width:700px;
+	display:block;
+	margin:0 auto;
+}
+
+#h1 {
+	text-align: center;
+	color:#FCFCFC;
+}
+
+.table-text {
+	float: right;
+	color:#FCFCFC;
+	
+}
+
+.table-text-right{
+	color:#FCFCFC;
+}
+
+#table-submit{
+	background-color:#EA8C37;
+}
+
+#table-reset{
+	background-color:#BBBBBB;
+}
+
+#button{
+	background-color:#BBBBBB;
+	width:100px;
+	height:25px;
+	
+}
